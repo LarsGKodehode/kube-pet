@@ -1,0 +1,43 @@
+openapi: 3.0.0
+info:
+  title: Pet Model
+  version: 1.0.0
+  description: Pet data model for Kube Pet application
+
+components:
+  schemas:
+    Pet:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        breed:
+          type: string
+        age:
+          type: integer
+        description:
+          type: string
+        availableForAdoption:
+          type: boolean
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    PetUpdateRequest:
+      type: object
+      properties:
+        name:
+          type: string
+        breed:
+          type: string
+        age:
+          type: integer
+        description:
+          type: string
+        availableForAdoption:
+          type: boolean
