@@ -12,8 +12,7 @@ Kube Pet is a pet adoption platform that allows users to adopt and register pets
 
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Prerequisites](#prerequisites)
+- [Further Reading](#further-reading)
 
 ## Technologies
 
@@ -105,3 +104,7 @@ Once the deployment is complete, you can access the Kube Pet application:
 ### API Documentation
 
 To explore the API endpoints and documentation, visit [Swagger UI](http://localhost:8080/swagger/index.html) for the backend API.
+
+## Further Reading
+
+- [Guide Home Lab Setup](https://github.com/ehlesp/smallab-k8s-pve-guide)
