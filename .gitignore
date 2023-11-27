@@ -1,0 +1,8 @@
+# Secrete Environment Variables
+.env*.local
+
+# Secrets
+.secrets
+
+# Local state files for k3s cluster
+.k3s-system
