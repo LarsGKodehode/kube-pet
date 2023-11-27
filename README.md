@@ -105,11 +105,3 @@ Once the deployment is complete, you can access the Kube Pet application:
 ### API Documentation
 
 To explore the API endpoints and documentation, visit [Swagger UI](http://localhost:8080/swagger/index.html) for the backend API.
-
-## Contributing
-
-Contributions to Kube Pet are welcome! Feel free to submit issues, suggest improvements, or send pull requests. Refer to our [contribution guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
