@@ -19,3 +19,5 @@ I am keeping a short informal "journal" here just to keep track of the progress.
   (Started with Cert-Manager before backing out)
 12. Decided path was windyer and narrower than anticipated.
 13. Started reading more up on kubernetes and networking
+14. Removed all traces of k3s and helm setup
+15. Starting anew from [here](https://geek-cookbook.funkypenguin.co.nz/kubernetes/cluster/k3s/)
