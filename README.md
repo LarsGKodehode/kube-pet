@@ -108,3 +108,4 @@ To explore the API endpoints and documentation, visit [Swagger UI](http://localh
 ## Further Reading
 
 - [Guide Home Lab Setup](https://github.com/ehlesp/smallab-k8s-pve-guide)
+- [Blog from Kubernetes Operator](https://geek-cookbook.funkypenguin.co.nz/kubernetes/)
